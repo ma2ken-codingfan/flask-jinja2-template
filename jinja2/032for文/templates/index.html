@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+
+{% block content %}
+  <h1>{{ main_title }}</h1>
+  {% for i in shikoku %}
+  {{ i }}
+  {% endfor %}
+
+{% endblock %}
