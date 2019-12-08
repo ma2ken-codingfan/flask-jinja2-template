@@ -1,8 +1,8 @@
-# 楽天ブログ更新のため
+# Flask の jinja2 テンプレートエンジンのチートシート
 
 ## 参考リンク
 
-[Flaskのjinja2テンプレートエンジンのチートシート](https://tanuhack.com/jinja2-cheetsheet/)
+[Flask の jinja2 テンプレートエンジンのチートシート](https://tanuhack.com/jinja2-cheetsheet/)
 
 [はじめての Flask](https://qiita.com/nagataaaas/items/d249c3905d41137cd510)
 [flask Document(英)](https://flask.palletsprojects.com/en/1.1.x/)
