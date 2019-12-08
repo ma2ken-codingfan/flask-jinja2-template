@@ -16,7 +16,7 @@ def output():
     age = request.form['age']
     html = render_template('output.html', name=name,
                            age=age, title='出力ページ')  # 最後にHTMLファイルとして保存
-    with open("templates/test.html", mode='w', encoding="utf-8") as f:
+    with open("templates/test.html", mode='w', encoding="utf-8", newline="\n") as f:
         f.write(str(html))
 
     return html
